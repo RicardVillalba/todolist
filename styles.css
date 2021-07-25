@@ -18,4 +18,9 @@ input[type="text"]:focus {
   cursor: pointer;
   background: transparent;
   border: none;
+  text-decoration: none;
+}
+
+.filtered {
+  display: none !important;
 }
